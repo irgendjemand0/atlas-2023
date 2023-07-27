@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Let‘s Hugo ",
+	"description": "Ein Emote aus dem Chat vom luxemburgischen Streamer Letshugo",
+	"links": {
+		"website": [
+			"https://twitch.tv/letshugotv"
+		]
+	},
+	"path": {
+		"1-23": [
+			[
+				468,
+				-359
+			],
+			[
+				468,
+				-327
+			],
+			[
+				497,
+				-326
+			],
+			[
+				498,
+				-359
+			],
+			[
+				498,
+				-368
+			],
+			[
+				469,
+				-367
+			]
+		]
+	},
+	"center": {
+		"1-23": [
+			483,
+			-347
+		]
+	}
+}
